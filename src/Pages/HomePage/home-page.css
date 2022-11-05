@@ -1,0 +1,10 @@
+.cards-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+body {
+  background-color: #523a34;
+  /* background-color: #cff273; */
+}
